@@ -6,8 +6,7 @@ The Mental Health Fitness Tracker project focuses on analyzing and predicting me
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+
 
 ## Installation
 
@@ -32,18 +31,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly.express
 7. Click on the "Track" button to track your mental fitness level.
 8. The app will display the results of the tracking.
 
-## Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-1. Fork the repo
-2. Clone the project
-3. Create your feature branch
-4. Commit your changes
-5. Push to the branch
-6. Open a pull request
-
-## License
-Distributed under the Open Source License. See `LICENSE` for more information.
 
 ## References
 - Datasets that were user in here were taken from [ourworldindia.org](https://ourworldindata.org/grapher/mental-and-substance-use-as-share-of-disease)
